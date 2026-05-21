@@ -4,12 +4,15 @@
     box-sizing: border-box;
     font-family: Arial, sans-serif;
 }
+
 html {
     scroll-behavior: smooth;
 }
+
 body {
     color: white;
 }
+
 nav {
     position: fixed;
     width: 100%;
