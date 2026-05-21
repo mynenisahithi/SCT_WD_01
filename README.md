@@ -19,9 +19,9 @@ JavaScript
 ## Project Structure
 Responsive-Landing-Page/
 │
-├── index.html
-├── style.css
-└── script.js
+├── index1.html
+├── style1.css
+└── script1.js
 ## How to Run
 Download or clone the project
 Open index.html in your browser
